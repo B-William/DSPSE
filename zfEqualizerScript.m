@@ -1,3 +1,5 @@
+% https://dsp.stackexchange.com/questions/66094/sinr-is-3-tap-zero-forcing-filter
+
 clear, clc, close all;
 
 L = 3; % equalizer length
