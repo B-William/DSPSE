@@ -1,3 +1,4 @@
+% https://dsp.stackexchange.com/questions/66303/hanning-window-bandwidth
 clear, clc, close all;
 
 L = 128;
